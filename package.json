@@ -1,0 +1,15 @@
+{
+  "name": "num-to-nep-words",
+  "version": "1.0.2",
+  "description": "Convert english number(Arabic numerals) into Nepali words. Both in Nepali and English language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "number-to-words-conversion"
+  ],
+  "author": "Bibhuti Poudyal",
+  "license": "ISC"
+}
