@@ -27,3 +27,7 @@ console.log(numToNepaliWords(123, 'en')) // One Hundred and Twenty Three
 <!--  1.0.4 is the version-->
 <script src="https://unpkg.com/num-to-nep-words@1.0.4/conversion.js"></script>
 ```
+
+### Demo
+
+https://github.com/the-value-crew/num-to-nepali-words
