@@ -294,5 +294,5 @@ function str(digit) {
     return digit.toString();
 }
 
-if (module)
+if (typeof module !== "undefined")
     module.exports = mapToWords;
