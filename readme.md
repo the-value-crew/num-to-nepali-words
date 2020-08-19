@@ -30,4 +30,4 @@ console.log(numToNepaliWords(123, 'en')) // One Hundred and Twenty Three
 
 ### Demo
 
-https://github.com/the-value-crew/num-to-nepali-words
+https://the-value-crew.github.io/num-to-nepali-words-demo/
