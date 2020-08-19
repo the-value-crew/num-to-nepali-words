@@ -10,8 +10,7 @@ Convert english number(Arabic numerals) into Nepali words. Both in Nepali and En
 10000000001 => Ten Arab, One
 ```
 
-## usage
-
+## Usage
 ```
 npm i num-to-nep-words
 ```
@@ -21,4 +20,10 @@ const numToNepaliWords = require('num-to-nep-words')
 
 console.log(numToNepaliWords(123, 'np')) // एक सय तेईस
 console.log(numToNepaliWords(123, 'en')) // One Hundred and Twenty Three
+```
+
+#### In browser
+```
+<!--  1.0.4 is the version-->
+<script src="https://unpkg.com/num-to-nep-words@1.0.4/conversion.js"></script>
 ```
